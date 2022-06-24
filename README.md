@@ -1,4 +1,4 @@
-# Multiple-Layer-Perceptron
+# Multiple-Layer-Perceptron 
 A multiple layer perceptron implementation from scratch with python
 
 The specification is in Assignment1.pdf
